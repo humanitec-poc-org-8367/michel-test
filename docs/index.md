@@ -1,6 +1,7 @@
 # Podinfo - Michel-test
 
 A simple score project deploying podinfo.
+Test change in techdocs
 
 ## Deploying
 
